@@ -1,6 +1,6 @@
 # Battery RUL Prediction using GRU-MHA Model
 
-Complete implementation of the research paper: **"A Hybrid GRU-MHA model for accurate battery RUL forecasting with feature selection"** by Abeer Aljohani & Saad Aljohani (2025).
+Implementation of the research paper: **"A Hybrid GRU-MHA model for accurate battery RUL forecasting with feature selection"** by Abeer Aljohani & Saad Aljohani (2025).
 
 ## 📋 Table of Contents
 
